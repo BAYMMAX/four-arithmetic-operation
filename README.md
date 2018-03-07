@@ -1,5 +1,10 @@
 <font color =#FF7F50 face="黑体">四则运算-个人项目（four-arithmetic-operation）</font>
 =====
+
+作者 | 武国胜
+------------ | -------------
+e-mail | xiaowu73113@foxmail.com
+
 目录
 -------
 >1、项目简介
