@@ -1,6 +1,4 @@
-# four-arithmetic-operation
-<font color=#FFA500></font>
-四则运算-个人项目
+<font color =#FF7F50 face="黑体">四则运算-个人项目（four-arithmetic-operation）</font>
 =====
 目录
 -------
