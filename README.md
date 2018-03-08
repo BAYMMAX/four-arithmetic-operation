@@ -24,5 +24,6 @@ e-mail | xiaowu73113@foxmail.com
 
 3、文档
 --------
-    文档内容包括需求分析文档，
+    文档内容包括需求分析文档，PSP表格，以及功能需求图<br>
+    具体可见如下链接
     https://github.com/BAYMMAX/four-arithmetic-operation/tree/master/doc
